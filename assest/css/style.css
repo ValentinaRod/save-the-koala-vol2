@@ -56,7 +56,7 @@ padding: 79px;
 	margin-top: 190px;
 }
 
-.row button{
+#btn{
 	background: #41521F;
 	font-weight: bold;
 	border: none;
@@ -125,18 +125,19 @@ padding: 79px;
 	font-weight: bold;
 }
 
- #btn {
-	margin-top: -3px;
-	margin-left: 159px;
+#btn2 {
 	background: #41521F;
+	color: white;
 	border: none;
-	font-weight: bold;
+	margin-left: 157px;
 }
 
 #koala1 {
 	display: row;
 	flex-direction: row-reverse;
 	border: 20px solid #fff;
+	margin-left: 700px;
+	margin-top: -223px;
 	
 }
 
