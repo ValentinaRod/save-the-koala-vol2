@@ -97,6 +97,13 @@ padding: 79px;
 	color: #A89F68;
 	font-weight: bolder;
 }
+.btn-lg {
+	background: #41521F;
+	border: none;
+	font-weight: bold;
+	margin-left: 160px;
+	
+}
 
 /*SECTION 3-------------------------*/
 
