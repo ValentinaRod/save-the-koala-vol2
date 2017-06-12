@@ -21,3 +21,7 @@ $('#myModal3').on('shown.bs.modal', function () {
 $('#myCollapsible').on('hidden.bs.collapse', function () {
 	interval: 1000
 })
+
+/*colapso*/
+
+$('.collapse').collapse()

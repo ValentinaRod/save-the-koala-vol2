@@ -125,18 +125,18 @@ padding: 79px;
 	font-weight: bold;
 }
 
-#btn2 {
+.btn-primary {
 	background: #41521F;
 	color: white;
 	border: none;
-	margin-left: 157px;
+	margin-left: 120px;
 }
 
 #koala1 {
 	display: row;
 	flex-direction: row-reverse;
 	border: 20px solid #fff;
-	margin-left: 700px;
+	margin-left: 610px;
 	margin-top: -223px;
 	
 }
