@@ -240,13 +240,19 @@ hr{
 	margin-left: 100px;
 }
 
-.section-six button{
+#btn3 {
 
 	background: #41521F;
 	border: none;
 	font-weight: bold;
 	margin-top: 6px;
-	margin-right: 152px;
+	margin-right: 140px;
+
+}
+
+#cajas {
+	margin-left: 400px;
+	margin-top : -378px;
 }
 
 /*FOOTERS------------------------------------*/
